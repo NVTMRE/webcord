@@ -15,7 +15,7 @@ A Discord bot with a Web UI for easy management and configuration.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/discord-bot-with-web-ui.git
+   git clone https://github.com//discord-bot-with-web-ui.git
    cd discord-bot-with-web-ui
    ```
 
